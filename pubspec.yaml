@@ -1,7 +1,8 @@
-name: image_selector
-description: A new Flutter package project.
+name: image_selector_widget
+description: This package provides an amazing multiple image selector widget
 version: 0.0.1
-homepage:
+homepage: https://github.com/kovilevi98/ImageSelectorExample
+repository: https://github.com/kovilevi98/ImageSelectorExample
 
 environment:
   sdk: ">=2.16.2 <3.0.0"
@@ -10,7 +11,7 @@ environment:
 dependencies:
   dotted_border: ^2.0.0
   image_gallery_saver: ^1.6.9
-  image_picker:
+  image_picker: ^0.8.5
 
   flutter:
     sdk: flutter
